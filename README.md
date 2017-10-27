@@ -1,4 +1,4 @@
-# React JS Singapore
+# AWS User Group Singapore
 
 > A group of Amazon Web Services users in Singapore. We meet every month to talk about technology, and how we build things.
 
@@ -6,7 +6,7 @@
 
 Month     | Date (Day)       | Confirmed?
 :---------|:-----------------|:----
-December |                |
+November |                |
 
 Check the calendar on our [Meetup page](https://www.meetup.com/AWS-SG/events) for all upcoming events.
 
