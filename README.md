@@ -50,10 +50,6 @@ Each month will have a corresponding [issue](https://github.com/AWS-SG/meetups/i
 >
 > You can add this part in later
 
-## 📢 Open announcements
-
-Have something you'd like to tell the audience? We have an open announcement segment for you to announce job opportunities, promote a meet up, upcoming conferences, etc. Please comment on the month's [issue](https://github.com/AWS-SG/meetups/issues) to give the organizers a heads-up.
-
 ## 📝 Notes to speakers
 
 - Be punctual for the event; talks start at 7.30pm - _your talk may be rescheduled if you are late_
